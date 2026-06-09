@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pomodoro_Custom_Parts")(type "KiCad")(uri "${KIPRJMOD}/Pomodoro_Custom_Parts.kicad_sym")(options "")(descr ""))
+)

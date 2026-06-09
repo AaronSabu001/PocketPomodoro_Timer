@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Pomodoro_Custom_Footprint")(type "KiCad")(uri "${KIPRJMOD}/Pomodoro_Custom_Footprint.pretty")(options "")(descr ""))
+)
